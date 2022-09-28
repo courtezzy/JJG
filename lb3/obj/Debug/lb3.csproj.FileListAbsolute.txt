@@ -1,0 +1,8 @@
+C:\Users\saa01\source\repos\lb3\bin\Debug\lb3.exe.config
+C:\Users\saa01\source\repos\lb3\bin\Debug\lb3.exe
+C:\Users\saa01\source\repos\lb3\bin\Debug\lb3.pdb
+C:\Users\saa01\source\repos\lb3\obj\Debug\lb3.csproj.AssemblyReference.cache
+C:\Users\saa01\source\repos\lb3\obj\Debug\lb3.csproj.SuggestedBindingRedirects.cache
+C:\Users\saa01\source\repos\lb3\obj\Debug\lb3.csproj.CoreCompileInputs.cache
+C:\Users\saa01\source\repos\lb3\obj\Debug\lb3.exe
+C:\Users\saa01\source\repos\lb3\obj\Debug\lb3.pdb
