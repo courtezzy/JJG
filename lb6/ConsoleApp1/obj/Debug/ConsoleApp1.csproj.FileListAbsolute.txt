@@ -1,0 +1,3 @@
+C:\Users\saa01\OneDrive\Рабочий стол\New folder (3)\lb6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\saa01\OneDrive\Рабочий стол\New folder (3)\lb6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\saa01\OneDrive\Рабочий стол\New folder (3)\lb6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
